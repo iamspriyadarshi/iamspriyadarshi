@@ -3,8 +3,6 @@ Shreyansh</a></h1>
 
 📫 How to reach me: shreyansh.priyadarshi02@gmail.com
 
-![](https://komarev.com/ghpvc/?username=iamspriyadarshi)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamspriyadarshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamspriyadarshi" height="30" width="40" /></a>

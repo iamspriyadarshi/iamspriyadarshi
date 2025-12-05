@@ -3,7 +3,7 @@ Shreyansh</a></h1>
 
 📫 How to reach me: shreyansh.priyadarshi02@gmail.com or shreyansh.priyadarshi@ashoka.edu.in or S.Priyadarshi@soton.ac.uk or Shreyansh.P@mbzuai.ac.ae
 
-<h3 align="left">Current Designations:</h3>
+<h3 align="left">Currently:</h3>
 - Pre-Doctoral Research Fellow at Mphasis AI & Applied Tech Lab at Ashoka University, India.<br />
 - Visiting Academic at University of Southampton, UK.<br />
 - Visiting Researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE.<br />

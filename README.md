@@ -4,9 +4,9 @@ Shreyansh</a></h1>
 📫 How to reach me: shreyansh.priyadarshi02@gmail.com or shreyansh.priyadarshi@ashoka.edu.in or S.Priyadarshi@soton.ac.uk or Shreyansh.P@mbzuai.ac.ae
 
 <h3 align="left">Current Designation:</h3>
-- Pre-Doctoral Research Fellow at Mphasis AI & Applied Tech Lab at Ashoka University, India. \
-- Visiting Academic at University of Southampton, UK. \
-- Visiting Researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE. \
+- Pre-Doctoral Research Fellow at Mphasis AI & Applied Tech Lab at Ashoka University, India.<br />
+- Visiting Academic at University of Southampton, UK.<br />
+- Visiting Researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE.<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamspriyadarshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamspriyadarshi" height="30" width="40" /></a>

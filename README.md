@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://iamspriyadarshi.github.io/" target="blank">
 Shreyansh</a></h1>
 
-📫 How to reach me: shreyansh.priyadarshi02@gmail.com or shreyansh.priyadarshi@ashoka.edu.in or S.Priyadarshi@soton.ac.uk
+📫 How to reach me: shreyansh.priyadarshi02@gmail.com or shreyansh.priyadarshi@ashoka.edu.in or S.Priyadarshi@soton.ac.uk or Shreyansh.P@mbzuai.ac.ae
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

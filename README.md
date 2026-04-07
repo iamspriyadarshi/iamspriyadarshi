@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://iamspriyadarshi.github.io/" target="blank">
 Shreyansh</a></h1>
 
-📫 How to reach me: shreyansh.priyadarshi02@gmail.com or shreyansh.priyadarshi@ashoka.edu.in or S.Priyadarshi@soton.ac.uk or Shreyansh.P@mbzuai.ac.ae
+📫 How to reach me: shreyansh.priyadarshi02@gmail.com
 
 <h3 align="left">Currently:</h3>
 - Pre-Doctoral Research Fellow at Mphasis AI & Applied Tech Lab at Ashoka University, India.<br />

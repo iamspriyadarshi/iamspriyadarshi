@@ -4,7 +4,7 @@ Shreyansh</a></h1>
 📫 How to reach me: shreyansh.priyadarshi02@gmail.com
 
 <h3 align="left">Currently:</h3>
-- Visiting Academic at University of Southampton, UK.<br />
+- Doctoral Researcher at University of Southampton, UK.<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamspriyadarshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamspriyadarshi" height="30" width="40" /></a>

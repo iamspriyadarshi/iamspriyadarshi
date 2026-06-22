@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Doctoral Researcher • Systems Biology • Computational Biology • Multi-Omics
+  Doctoral Researcher • Machine Learning • Computational Biology • Multi-Omics
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ My research focuses on developing computational frameworks to understand the reg
 - Gene Regulatory Networks (GRNs)
 - Single-Cell Multi-Omics
 - Cellular Reprogramming
-- Systems Biology
+- Machine Learning
 - Computational Biology
 - Regulatory Dynamics & Cell Fate Decisions
 

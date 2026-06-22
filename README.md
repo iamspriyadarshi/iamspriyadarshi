@@ -21,7 +21,7 @@ I completed my:
 - 🎓 **Bachelor's Degree** (Biology major, Computer Science minor) at Ashoka University (2021-2024)
 - 🎓 **Postgraduate Diploma in Research** with a Computer Science thesis and Chemistry concentration at Ashoka University (2024-2025)
 
-My research focuses on developing computational frameworks to understand the regulatory mechanisms that drive **cell fate decisions** and **cellular identity**. By integrating diverse high-throughput datasets—including **transcriptomic**, **epigenomic**, **chromatic contact map**, and **chromatin accessibility** data—I aim to uncover the molecular dynamics underlying cellular reprogramming and development.
+My research focuses on developing computational frameworks to understand the regulatory mechanisms that drive **cell fate decisions** and **cellular identity**. By integrating diverse high-throughput datasets—including **transcriptomic**, **epigenomic**, **chromatin contact map**, and **chromatin accessibility** data—I aim to uncover the molecular dynamics underlying cellular reprogramming and development.
 
 ### 🔬 Research Interests
 

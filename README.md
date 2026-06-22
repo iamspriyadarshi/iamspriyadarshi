@@ -1,15 +1,55 @@
-<h1 align="center">Hi 👋, I'm <a href="https://iamspriyadarshi.github.io/" target="blank">
-Shreyansh</a></h1>
+<h1 align="center">
+  Hi 👋, I'm <a href="https://iamspriyadarshi.github.io/" target="_blank">Shreyansh Priyadarshi</a>
+</h1>
 
-📫 How to reach me: shreyansh.priyadarshi02@gmail.com or Shreyansh.Priyadarshi@soton.ac.uk
+<h3 align="center">
+  Doctoral Researcher • Systems Biology • Computational Biology • Multi-Omics
+</h3>
 
-<h3 align="center">About:</h3>
-I am a Doctoral Researcher in the School of Biological Sciences at the University of Southampton. I completed my Bachelor’s degree (Biology major, Computer Science minor) and a Postgraduate Diploma in Research (Computer Science thesis, Chemistry concentration) from Ashoka University.
-
-My research lies at the intersection of gene regulatory networks (GRNs), multi-omics data integration, and cellular reprogramming. I am particularly interested in developing computational and systems biology approaches to model regulatory dynamics underlying cell fate decisions. By integrating diverse high-throughput datasets such as transcriptomic, epigenomic, and chromatin accessibility data, my work aims to uncover the molecular mechanisms that govern reprogramming and cellular identity during development.
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/iamspriyadarshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamspriyadarshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyansh-priyadarshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh-priyadarshi" height="30" width="40" /></a>
+  📍 School of Biological Sciences, University of Southampton
+</p>
+
+---
+
+## 👨‍🔬 About Me
+
+I am a **Doctoral Researcher** at the **University of Southampton**, working at the intersection of **systems biology**, **gene regulatory networks (GRNs)**, **multi-omics integration**, and **cellular reprogramming**.
+
+I completed my:
+
+- 🎓 **Bachelor's Degree** (Biology major, Computer Science minor) at Ashoka University (2021-2024)
+- 🎓 **Postgraduate Diploma in Research** with a Computer Science thesis and Chemistry concentration at Ashoka University (2024-2025)
+
+My research focuses on developing computational frameworks to understand the regulatory mechanisms that drive **cell fate decisions** and **cellular identity**. By integrating diverse high-throughput datasets—including **transcriptomic**, **epigenomic**, **chromatic contact map**, and **chromatin accessibility** data—I aim to uncover the molecular dynamics underlying cellular reprogramming and development.
+
+### 🔬 Research Interests
+
+- Gene Regulatory Networks (GRNs)
+- Single-Cell Multi-Omics
+- Cellular Reprogramming
+- Systems Biology
+- Computational Biology
+- Regulatory Dynamics & Cell Fate Decisions
+
+---
+
+## 📫 Contact
+
+<p>
+  📧 <a href="mailto:shreyansh.priyadarshi02@gmail.com">shreyansh.priyadarshi02@gmail.com</a><br>
+  📧 <a href="mailto:Shreyansh.Priyadarshi@soton.ac.uk">Shreyansh.Priyadarshi@soton.ac.uk</a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/iamspriyadarshi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/shreyansh-priyadarshi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>

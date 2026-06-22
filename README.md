@@ -14,7 +14,7 @@
 
 ## 👨‍🔬 About Me
 
-I am a **Doctoral Researcher** at the **University of Southampton**, working at the intersection of **systems biology**, **gene regulatory networks (GRNs)**, **multi-omics integration**, and **cellular reprogramming**.
+I am a **Doctoral Researcher** at the **University of Southampton**, working at the intersection of **machine learning**, **gene regulatory networks (GRNs)**, **multi-omics integration**, and **cellular reprogramming**.
 
 I completed my:
 
